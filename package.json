@@ -41,7 +41,7 @@
     "README.md"
   ],
   "dependencies": {
-    "nopt": "~2.1.1"
+    "nopt": "~2.2.1"
   },
   "devDependencies": {
     "amdefine": "~0.0.8",
